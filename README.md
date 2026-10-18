@@ -1,3 +1,6 @@
+ Overlord (2007) 한글 패치 요약 (GitHub 릴리스용)
+
+
 1. 개요
 대상 게임: Overlord 1 (2007) PC (Steam / GOG / 패키지판 공통)
 패치 버전: v1.0_F (최종 정식 배포본)
