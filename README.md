@@ -5,7 +5,8 @@
 대상 게임: Overlord 1 (2007) PC (Steam / GOG / 패키지판 공통)
 패치 버전: v1.0_F (최종 정식 배포본)
 번역 범위: 스토리, 퀘스트, 인게임 UI/HUD, 튜토리얼, 시스템 설정기, 폰트 100% 한글화
-2. 원본 대비 변경 및 패치된 파일 상세 내역
+
+3. 원본 대비 변경 및 패치된 파일 상세 내역
 경로 및 파일명	원본 대비 변경 사항	세부 내용
 Language\*.8ld
 (총 41개 파일)	수정 (암호화 재패키징)	• Triumph 전용 M8LD 바이너리 컨테이너 복호화 후 대사 번역 및 재암호화
@@ -36,7 +37,7 @@ installer.ps1	신규 추가 (원클릭 자동 설치기)	• Steam / GOG 설치 
 Restore_Original.bat
 restore.ps1	신규 추가 (원클릭 복원 도구)	• 패치 이전의 깨끗한 원본 상태로 1클릭 복구 (폴더 지정 지원)
 README.txt	신규 추가	• 설치 방법 및 게임 내 자막 켜기(Options -> Audio -> Subtitles On) 설정 가이드
-3. 주요 한글화 및 기능 수정 요약 (GitHub Release Notes용 텍스트)
+4. 주요 한글화 및 기능 수정 요약 (GitHub Release Notes용 텍스트)
 markdown
 ### 🎮 한글화 내용 요약
 1. **스토리 및 퀘스트 대사 100% 완역**
